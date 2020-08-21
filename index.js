@@ -1,4 +1,4 @@
 import {Select} from './selectClass/select'
-import './selectClass/styles.sass'
+import './selectClass/styles.scss'
 
 const select = new Select()
